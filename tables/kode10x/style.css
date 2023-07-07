@@ -1,0 +1,18 @@
+table{
+width: 100%;
+border: 1px solid silver;
+}
+
+th{
+text-align: left;
+border: 1px solid silver;
+}
+
+tr{
+border: 1px solid silver;
+}
+
+tr:nth-chid{
+background-color: rgba(240, 200, 200
+);
+}
